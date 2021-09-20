@@ -1,8 +1,8 @@
 {
-    "name": "mattmakins/sphinx-search",
+    "name": "2dareis2do/sphinx-search",
     "description": "Sphinx search library",
     "type": "library",
-    "version": "0.9",
+    "version": "2.2.11",
     "repositories": [        
         {
             "type": "vcs",
